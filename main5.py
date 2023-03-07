@@ -1,3 +1,4 @@
+"asxjulausdd"
 n = int(input('введите кол-во слов:'))
 x = ''
 for i in range(n):

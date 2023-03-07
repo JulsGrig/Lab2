@@ -1,3 +1,4 @@
+"asxjulausdd"
 password = input('Введите пароль')
 is_numeric = False
 is_upper = False

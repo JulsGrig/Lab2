@@ -1,3 +1,4 @@
+"asxjulausdd"
 one_color = input('Введите первый цвет')
 two_color = input('Введите второй цвет')
 color = ['красный','синий','желтый']
